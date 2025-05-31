@@ -93,3 +93,20 @@ VITE_BASE_URL="http://localhost:5173"
 - **[Unsplash](https://unsplash.com/)**
 
   
+# Outputs
+Sign-in – Enables users to securely log in to the platform.
+  ![Image](https://github.com/user-attachments/assets/db9a2c29-2fcc-4168-acf5-b9a53e5177b1)
+  
+Dashboard – Displays an overview of user activities and available features.
+  ![Image](https://github.com/user-attachments/assets/25c588b2-9c9c-4d63-a539-8745bf1e903f)
+  
+AI Trip Creation – Uses Gemini for text generation and Unsplash for images based on user-provided questions.
+  ![Image](https://github.com/user-attachments/assets/9a6af4bc-9b29-42b4-bef3-c1b7fb07082e)
+
+Image Generation (Unsplash) – Fetches relevant, high-quality images from Unsplash based on the trip context.
+  ![Image](https://github.com/user-attachments/assets/ca585568-6e62-4ac2-b84c-4693253cab96)
+
+Text Generation (Gemini) – Produces descriptive and engaging trip content using Google's Gemini AI.
+  ![Image](https://github.com/user-attachments/assets/a8c70053-639e-4a6d-ae30-b18bdd1cdd60)
+  ![Image](https://github.com/user-attachments/assets/ea82c60f-e291-4375-b180-a676b44de178)
+  
