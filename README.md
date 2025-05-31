@@ -92,6 +92,10 @@ VITE_BASE_URL="http://localhost:5173"
 
 - **[Unsplash](https://unsplash.com/)**
 
+```bash
+npm run dev
+```
+
   
 # Outputs
 Sign-in – Enables users to securely log in to the platform.
